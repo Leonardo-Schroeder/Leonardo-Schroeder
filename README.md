@@ -4,7 +4,7 @@
 
 ### About me:
 
-- I am currently in my 3rd semester of my undergraduate degree at [UNICAMP](https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp)🥇
+- I am currently in my 4rd semester of my undergraduate degree at [UNICAMP](https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp)🥇
 
 - This GitHub represents my temporary portfolio of projects that seek to showcase my professional development. 🚀
 
