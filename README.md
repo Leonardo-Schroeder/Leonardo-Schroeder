@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Information Systems Student at Unicamp (FT) 🚀 | Focused on Software Engineering, Automated Testing, AI, Data, Cloud & Machine Learning</em>
+  <em>Pursuing a B.S. in Information Systems at Unicamp 🎓 | Back-end Developer / Software Engineering | Currently deep diving into Competitive Programming, Testing, CI/CD, AI, Data & Machine Learning</em>
 </p>
 
 <p align="center">
@@ -11,16 +11,28 @@
 </p>
 
 <p align="center">
-  <a href="https://[YOUR_WEBSITE].com">
-    <img src="https://img.shields.io/badge/Website-46a2f1.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website" />
+ <a href="https://[YOUR_PORTFOLIO_URL].com">
+    <img src="https://img.shields.io/badge/Portfolio-46a2f1.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://[YOUR_RESUME_LINK]">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://linkedin.com/in/leonardo-b-schroeder-2969b0217/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/Leonardo-Schroeder">
+  <a href="https://instagram.com/leonardo_schroederr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:leonardo.schroeder02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/leonardo_schroe1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/FnnhL799Ej/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/Leonardo-Schroeder">
+  <a href="https://codeforces.com/profile/LeoSchroeder">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
@@ -28,18 +40,62 @@
 <hr>
 
 ## 💻 Technologies & Tools
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,cpp,dart,flutter,c,php,js,ts,vite,html,css,react,nodejs,postman,git,github,docker,aws,gcp,azure,bash,powershell,linux,windows,mysql,mongo,postgres,firebase,vscode,visualstudio,eclipse,figma,fastapi,gmail,instagram,discord,kafka,latex,linkedin,md,nginx,notion,npm,stackoverflow&perline=10" alt="My Skills" />
-  </a>
-</p>
+<details>
+<summary><b>🌐 Web & Frontend</b></summary>
+
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,figma&perline=10" alt="Web Skills" />
+</a>
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Languages</b></summary>
+
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,nodejs,php,cpp,c&perline=10" alt="Backend Skills" />
+</a>
+</details>
+
+<details>
+<summary><b>📱 Mobile Development</b></summary>
+
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10" alt="Mobile Skills" />
+</a>
+</details>
+
+<details>
+<summary><b>🗄️ Database & Cloud</b></summary>
+
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,firebase,aws,gcp,azure&perline=10" alt="Cloud and DB Skills" />
+</a>
+</details>
+
+<details>
+<summary><b>🛠️ Devops, Tools & OS</b></summary>
+
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker,git,github,bash,powershell,linux,windows,nginx,kafka,postman,npm&perline=10" alt="Tools Skills" />
+</a>
+</details>
+
+<details>
+<summary><b>✍️ Software & Productivity</b></summary>
+
+<a href="https://skillicons.dev" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,notion,latex,md,stackoverflow,discord,gmail,instagram,linkedin&perline=10" alt="Productivity Skills" />
+</a>
+</details>
+
+<hr>
 
 ## 📈 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-Schroeder&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-git-master-leonardos-projects-e83858c6.vercel.app/api?username=Leonardo-Schroeder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-five-blush-23.vercel.app/api?username=Leonardo-Schroeder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Schroeder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -53,7 +109,7 @@
 ### 🎵 Now Playing on Spotify
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjkdy7rutfyrfsqmn64m25geya&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjkdy7rutfyrfsqmn64m25geya&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjkdy7rutfyrfsqmn64m25geya&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
 
@@ -65,26 +121,36 @@
 const leonardo = {
   pronouns: ["he", "him"],
   location: "Indaiatuba, SP - Brazil",
-  education: "Information Systems (SI) - Unicamp",
+  education: "B.S. in Information Systems - Unicamp",
   currentFocus: [
     "Diving deep into Artificial Intelligence and Machine Learning",
     "Undergraduate Research (IC) in Software Testing (Mocks, Unit & Integration Testing)"
   ],
   technologies: {
-    languages: ["Python", "Java", "C++"],
-    dataAndAI: ["Machine Learning", "Data Analysis"],
-    quality: ["Software Testing", "Mocking"]
+    languages: ["Python", "Java", "C#", "C++", "JavaScript", "TypeScript"],
+    frameworksAndTools: ["React", ".NET", "Docker", "Git/GitHub", "Node.js", "FastAPI"],
+    dataAndAI: ["Machine Learning", "Data Analysis", "Big Data", "Data Structures"],
+    quality: ["Software Testing", "Unit Testing", "Integration Testing", "Mocking"]
+    architecture: ["SOLID", "Design Patterns", "Clean Architecture"],
+    devOps: ["Docker", "CI/CD Pipelines", "Cloud (AWS/Azure/GCP)"],
   },
+  softSkills: [
+    "Leadership & Team Management (President of Student Council)",
+    "Project Coordination",
+    "Adaptability & Problem Solving"
+  ],
   achievements: [
-    "Olympic Medalist in OBR (Robotics) and OBA (Astronomy) 🥇",
+    "Gold Olympic Medalist in OBR (Robotics) and OBA (Astronomy) 🥇",
     "FRC Awards: Engineering Inspiration (DF) & Rookie All-Star (USA) 🏆",
     "FIRST® Championship 2023 Competitor in Houston, TX",
-    "Co-founder of the university's Robotics League"
+    "Co-founder of the University's Robotics League",
+    "President of the Student Representative Council (Centro Acadêmico)"
   ],
   lifeOutsideCode: [
-    "Hitting the gym to build that V-shape physique 💪",
+    "Focusing on fitness and mental health 💪",
     "Supporting Esporte Clube Primavera de Indaiatuba ⚽",
-    "Playing The Sims 4 or Sky: Children of the Light",
-    "Listening to System of a Down at max volume 🤘"
+    "Playing Heartopia or fantasy RPGs 🎮",
+    "Listening to System of a Down at max volume 🤘",
+    "Found footage horror movie enthusiast 🎥"
   ]
 };
