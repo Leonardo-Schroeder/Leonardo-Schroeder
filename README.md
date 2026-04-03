@@ -27,26 +27,19 @@
 
 <hr>
 
-### 💻 Technologies & Tools
+## 💻 Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=python,cs,dotnet,java,cpp,dart,flutter,c,php,js,ts,vite,html,css,react,nodejs,postman,git,github,docker,aws,gcp,azure,bash,powershell,linux,windows,mysql,mongo,postgres,firebase,vscode,visualstudio,eclipse,figma,fastapi,gmail,instagram,discord,kafka,latex,linkedin,md,nginx,notion,npm,stackoverflow&perline=10" alt="My Skills" />
   </a>
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leonardo-Schroeder&theme=tokyonight&margin-w=15&column=7&no-frame=true" alt="Leonardo's Trophies" />
-  </a>
-</p>
-
-### 📈 GitHub Activity & Stats
+## 📈 GitHub Activity & Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-Schroeder&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Schroeder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-leonardos-projects-e83858c6.vercel.app/api?username=Leonardo-Schroeder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Schroeder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -59,8 +52,8 @@
 
 ### 🎵 Now Playing on Spotify
 <p align="center">
-  <a href="https://open.spotify.com/user/31qjkdy7rutfyrfsqmn64m25geya" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qjkdy7rutfyrfsqmn64m25geya&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjkdy7rutfyrfsqmn64m25geya&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qjkdy7rutfyrfsqmn64m25geya&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
