@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Information Systems Student at Unicamp (FT) 🚀 | Focused on Software Engenerring, Automatizated Testing, AI, Data, Cloud & Machine Learning</em>
+  <em>Information Systems Student at Unicamp (FT) 🚀 | Focused on Software Engineering, Automated Testing, AI, Data, Cloud & Machine Learning</em>
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Schroeder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
-## 📝 Recent Commits & Activity
-### 🐍 Feeding the Snake with Commits
+### 📝 Recent Commits & Activity
 
+### 🐍 Feeding the Snake with Commits
 <p align="center">
   <img src="https://raw.githubusercontent.com/Leonardo-Schroeder/Leonardo-Schroeder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
@@ -95,4 +95,3 @@ const leonardo = {
     "Listening to System of a Down at max volume 🤘"
   ]
 };
-
