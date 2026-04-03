@@ -17,10 +17,10 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="https://leetcode.com/Leonardo-Schroeder">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+  <a href="https://codeforces.com/profile/Leonardo-Schroeder">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
@@ -34,10 +34,9 @@
   </a>
 </p>
 
-<!--START_SECTION:activity-->
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=Leonardo-Schroeder&theme=tokyonight&margin-w=15&column=7&no-frame=true" alt="Leonardo's Trophies" />
   </a>
 </p>
@@ -50,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Leonardo-Schroeder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Schroeder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
-<!--END_SECTION:activity-->
 
 ## 📝 Recent Commits & Activity
 
@@ -68,7 +66,7 @@
 
 <hr>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const leonardo = {
