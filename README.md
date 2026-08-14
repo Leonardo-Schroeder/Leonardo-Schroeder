@@ -91,7 +91,7 @@
 <hr>
 
  <!--START_SECTION:activity-->
-## 📈 GitHub Activity & Stats
+1. ❗ Opened issue [#4](https://github.com/maclarapaulini/site_para_todos/issues/4) in [maclarapaulini/site_para_todos](https://github.com/maclarapaulini/site_para_todos)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-Schroeder&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
