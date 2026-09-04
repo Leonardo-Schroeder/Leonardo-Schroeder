@@ -91,8 +91,8 @@
 <hr>
 
  <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/maclarapaulini/site_para_todos/issues/4) in [maclarapaulini/site_para_todos](https://github.com/maclarapaulini/site_para_todos)
-<p align="center">
+1. 🔒 Closed issue [#4](https://github.com/maclarapaulini/site_para_todos/issues/4) in [maclarapaulini/site_para_todos](https://github.com/maclarapaulini/site_para_todos)
+2. ❗ Opened issue [#4](https://github.com/maclarapaulini/site_para_todos/issues/4) in [maclarapaulini/site_para_todos](https://github.com/maclarapaulini/site_para_todos)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-Schroeder&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 <p align="center">
